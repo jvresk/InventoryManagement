@@ -1,0 +1,124 @@
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe.config
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.pdb
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csprojAssemblyReference.cache
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.FormPocetna.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Properties.Resources.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.GenerateResource.cache
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.pdb
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormArtikli.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormDobavljaci.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRadnici.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPrimke.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRacuni.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormVrstaArtikla.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPopusti.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.dll
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.xml
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.CopyComplete
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormEvidencije.resources
+C:\Users\Josipa\Desktop\projekt_9mj\app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormNarudzbe.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe.config
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.pdb
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.dll
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.xml
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csprojAssemblyReference.cache
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormArtikli.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormDobavljaci.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormEvidencije.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormNarudzbe.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPopusti.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPrimke.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRacuni.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRadnici.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormVrstaArtikla.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.FormPocetna.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Properties.Resources.resources
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.GenerateResource.cache
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.CopyComplete
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.pdb
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe.config
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\UpravljanjeZalihama.pdb
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.dll
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\Npgsql.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Buffers.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Memory.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Text.Json.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Channels.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\bin\Debug\System.ValueTuple.xml
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csprojAssemblyReference.cache
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormArtikli.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormDobavljaci.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormEvidencije.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormNarudzbe.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPopusti.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormPrimke.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRacuni.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRadnici.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormRucnaNarudzba.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Forme.FormVrstaArtikla.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.FormPocetna.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.Properties.Resources.resources
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.GenerateResource.cache
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.csproj.CopyComplete
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.exe
+C:\Users\Josipa\Desktop\zadnji pokusaj\jvresk_upravljanje_zalihama\jvresk_app\UpravljanjeZalihama\UpravljanjeZalihama\obj\Debug\UpravljanjeZalihama.pdb
